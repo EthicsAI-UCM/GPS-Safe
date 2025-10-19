@@ -56,7 +56,7 @@ Con el fin de unificar criterios, la realización de *commits* en GitHub se har�
 4. Se usarán como máximo 50 carácteres para el mensaje de commit
 5. Se añadirá todo el contexto que sea necesario en el cuerpo del mensaje de commit
 
-Para más detalle, visitar [Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev. https://midu.dev/buenas-practicas-commits-git](https://midu.dev/buenas-practicas-escribir-commits-git/)
+Para más detalle, visitar *Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.*(https://midu.dev/buenas-practicas-escribir-commits-git/)
 
 
 ## 7. Referencias
