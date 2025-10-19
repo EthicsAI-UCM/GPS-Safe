@@ -16,7 +16,7 @@ GPS Safe es una aplicación de navegación inteligente que te ayuda a llegar a c
 
 ## 2. Control de versiones
 
-```📑 Especificacion_v1.pdf```
+```📑 Especificacion_v0.pdf```
 
 En esta primera versión se tratan aspectos superficiales como quiénes son los integrantes del grupo, cuál es el proyecto a abordar (nombre, definición, ámbito, uso de IA, actores, innovación, riesgos, etc.) y cómo va a estar organizado (formas de comunicación, superación de debilidades personales, team building, etc.).
 
