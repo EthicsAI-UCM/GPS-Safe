@@ -48,7 +48,7 @@ Integrantes del equipo *GPS-Safe*:
 
 ## 6. Protocolo *commits* en GitHub
 
-Con el fin de unificar criterios, la realización de *commits* en GitHub se hará en función a las siguientes reglas:
+Con el fin de unificar criterios, la realización de *commits* en GitHub se hará en función a las siguientes reglas (*Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.*):
 
 1. Se utilizará el castellano como lengua imperante
 2. Se usará el verbo imperativo ("actualizar", "eliminar", "añadir", "crear"...)
@@ -56,28 +56,26 @@ Con el fin de unificar criterios, la realización de *commits* en GitHub se har�
 4. Se usarán como máximo 50 carácteres para el mensaje de commit
 5. Se añadirá todo el contexto que sea necesario en el cuerpo del mensaje de commit
 
-Para más detalle, visitar *Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.*(https://midu.dev/buenas-practicas-escribir-commits-git/)
-
 
 ## 7. Referencias
 
 **Importante:** Las referencias serán escritas en formato APA (7ª edición).
 
-[Maidana, G. (2023, 10 de noviembre). Waze, la app de tránsito ahora da alertas sobre rutas peligrosas y su historial de accidentes. Perfil – Modo Fontevecchia. https://www.perfil.com/noticias/modo-fontevecchia/waze-la-app-de-transito-ahora-da-alertas-sobre-rutas-peligrosas-y-su-historial-de-accidentes-modof.phtml](https://www.perfil.com/noticias/modo-fontevecchia/waze-la-app-de-transito-ahora-da-alertas-sobre-rutas-peligrosas-y-su-historial-de-accidentes-modof.phtml)
+- *Maidana, G. (2023, 10 de noviembre). Waze, la app de tránsito ahora da alertas sobre rutas peligrosas y su historial de accidentes. Perfil – Modo Fontevecchia.* https://www.perfil.com/noticias/modo-fontevecchia/waze-la-app-de-transito-ahora-da-alertas-sobre-rutas-peligrosas-y-su-historial-de-accidentes-modof.phtml
 
-[Khandakar, A., Michelson, D.G., Naznine, M. et al. Harnessing Smartphone Sensors for Enhanced Road Safety: A Comprehensive Dataset and Review. Sci Data 12, 418 (2025). https://doi.org/10.1038/s41597-024-04193-0](https://www.nature.com/articles/s41597-024-04193-0)
+- *Khandakar, A., Michelson, D.G., Naznine, M. et al. Harnessing Smartphone Sensors for Enhanced Road Safety: A Comprehensive Dataset and Review. Sci Data 12, 418 (2025).* https://www.nature.com/articles/s41597-024-04193-0
 
-[Campo Yanguas, L. (2025, 8 de septiembre). Adiós a los robos en la calle: este es el dispositivo superventas de Amazon que te ayuda a evitarlos. El País – Escaparate: Estilo de vida. https://elpais.com/escaparate/estilo-de-vida/2025-09-08/alarma-personal.html](https://elpais.com/escaparate/estilo-de-vida/2025-09-08/alarma-personal.html)
+- *Campo Yanguas, L. (2025, 8 de septiembre). Adiós a los robos en la calle: este es el dispositivo superventas de Amazon que te ayuda a evitarlos. El País – Escaparate: Estilo de vida.* https://elpais.com/escaparate/estilo-de-vida/2025-09-08/alarma-personal.html
 
-[Yoigo Alarmas. (2024, 4 de octubre). Descubre cuáles son los 10 barrios más peligrosos de Barcelona. Yoigo Alarmas Blog. https://yoigoalarmas.es/blog/descubre-cuales-son-10-barrios-mas-peligrosos-barcelona](https://yoigoalarmas.es/blog/descubre-cuales-son-10-barrios-mas-peligrosos-barcelona)
+- *Yoigo Alarmas. (2024, 4 de octubre). Descubre cuáles son los 10 barrios más peligrosos de Barcelona. Yoigo Alarmas Blog.* https://yoigoalarmas.es/blog/descubre-cuales-son-10-barrios-mas-peligrosos-barcelona
 
-[Citizen. (n.d.). Citizen App – Urban Safety Platform. Citizen. https://citizen.com](https://citizen.com)
+- *Citizen. (n.d.). Citizen App – Urban Safety Platform. Citizen.* https://citizen.com
 
-[SSafeGraph. (n.d.). The ultimate guide to mobility data: Sources, benefits, and applications. SafeGraph Guides. https://www.safegraph.com/guides/mobility-data](https://www.safegraph.com/guides/mobility-data)
+- *SafeGraph. (n.d.). The ultimate guide to mobility data: Sources, benefits, and applications. SafeGraph Guides.* https://www.safegraph.com/guides/mobility-data
 
-[Wood, M. (2022, June 30). Algorithm predicts crime a week in advance, but reveals bias in police response. The University of Chicago – Biological Sciences Division. https://biologicalsciences.uchicago.edu/news/algorithm-predicts-crime-police-bias](https://biologicalsciences.uchicago.edu/news/algorithm-predicts-crime-police-bias)
+- *Wood, M. (2022, June 30). Algorithm predicts crime a week in advance, but reveals bias in police response. The University of Chicago – Biological Sciences Division.* https://biologicalsciences.uchicago.edu/news/algorithm-predicts-crime-police-bias
 
-[Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev. https://midu.dev/buenas-practicas-commits-git](https://midu.dev/buenas-practicas-escribir-commits-git/)
+- *Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.* https://midu.dev/buenas-practicas-escribir-commits-git/
 
 
 
