@@ -41,9 +41,9 @@ Integrantes del equipo *GPS-Safe*:
 
 ## 5. Asignación de roles
 
-- "Scrum Master" (responsable de seguir la metodología Scrum): ***PENDIENTE***
-- "Product Owner" (responsable de que el grupo haga el trabajo productivo requerido): ***PENDIENTE***
-- "Experto Git" (para apoyar el uso de Git y Github y resolver dudas al respecto): ***PENDIENTE***
+- "Scrum Master" (responsable de seguir la metodología Scrum): Carlota Salazar Martín
+- "Product Owner" (responsable de que el grupo haga el trabajo productivo requerido): Pablo Manuel Rodríguez Sosa
+- "Experto Git" (para apoyar el uso de Git y Github y resolver dudas al respecto): Artem Vartanov
 
 
 ## 6. Protocolo *commits* en GitHub
@@ -72,6 +72,8 @@ Con el fin de unificar criterios, la realización de *commits* en GitHub se har�
 - *Citizen. (n.d.). Citizen App – Urban Safety Platform. Citizen.* https://citizen.com
 
 - *SafeGraph. (n.d.). The ultimate guide to mobility data: Sources, benefits, and applications. SafeGraph Guides.* https://www.safegraph.com/guides/mobility-data
+
+- *Hontoria, N. (2025, 6 de agosto). Hay algo que echo de menos en Google Maps: no es capaz de evitar las zonas más inseguras. Xataka Android.* https://www.xatakandroid.com/navegacion-y-mapas/hay-algo-que-echo-google-maps-no-capaz-evitar-zonas-inseguras-ia-tampoco-sabe-como-ayudarme
 
 - *Wood, M. (2022, June 30). Algorithm predicts crime a week in advance, but reveals bias in police response. The University of Chicago – Biological Sciences Division.* https://biologicalsciences.uchicago.edu/news/algorithm-predicts-crime-police-bias
 
