@@ -18,7 +18,11 @@ GPS Safe es una aplicación de navegación inteligente que te ayuda a llegar a c
 
 ```📑 Especificacion_v0.pdf```
 
-En esta primera versión se tratan aspectos superficiales como quiénes son los integrantes del grupo, cuál es el proyecto a abordar (nombre, definición, ámbito, uso de IA, actores, innovación, riesgos, etc.) y cómo va a estar organizado (formas de comunicación, superación de debilidades personales, team building, etc.).
+En esta primera versión, se tratan aspectos superficiales como quiénes son los integrantes del grupo, cuál es el proyecto a abordar (nombre, definición, ámbito, uso de IA, actores, innovación, riesgos, etc.) y cómo va a estar organizado (formas de comunicación, superación de debilidades personales, team building, etc.).
+
+```📑 Especificacion_v1.pdf```
+
+En esta segunda versión, se profundiza en aquellos temas que causaron interés o controversia en el debate de la versión anterior, como la privacidad, evaluación de riesgos, usos indebidos... En esencia, se detallan ciertos aspectos del proyecto para reforzar su funcionamiento, seguridad y ética.
 
 
 ## 3. Prototipo conceptual
@@ -48,13 +52,12 @@ Integrantes del equipo *GPS-Safe*:
 
 ## 6. Protocolo *commits* en GitHub
 
-Con el fin de unificar criterios, la realización de *commits* en GitHub se hará en función a las siguientes reglas (*Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.*):
+Con el fin de unificar criterios, los *commits* en GitHub se escribirán en castellano como lengua imperante, y se ceñirán a las siguientes reglas (*Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.*):
 
-1. Se utilizará el castellano como lengua imperante
-2. Se usará el verbo imperativo ("actualizar", "eliminar", "añadir", "crear"...)
-3. No se usará punto final ni puntos suspensivos en los mensajes
-4. Se usarán como máximo 50 carácteres para el mensaje de commit
-5. Se añadirá todo el contexto que sea necesario en el cuerpo del mensaje de commit
+1. Se usará el verbo imperativo ("actualizar", "eliminar", "añadir", "crear"...)
+2. No se usará punto final ni puntos suspensivos en los mensajes
+3. Se usarán como máximo 50 carácteres para el mensaje de commit
+4. Se añadirá todo el contexto que sea necesario en el cuerpo del mensaje de commit
 
 
 ## 7. Referencias
