@@ -50,7 +50,7 @@ Integrantes del equipo *GPS-Safe*:
 | *Scrum Master*| **Carlota** Salazar Martín | Responsable de seguir la metodología Scrum |
 | *Product Owner* | **Pablo** M. Rodríguez Sosa | Responsable de que el grupo haga el trabajo productivo requerido |
 | *Experto Git* | **Artem** Vartanov | Responsable de apoyar el uso de Git y Github y resolver dudas al respecto |
-| *Team Advocate* | ***pendiente...*** | Responsable de defender y cuidar al grupo |
+| *Team Advocate* | **Yushan** Yang | Responsable de defender y cuidar al grupo |
 
 
 ## 6. Protocolo *commits* en GitHub
