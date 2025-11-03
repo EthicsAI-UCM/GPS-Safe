@@ -81,11 +81,10 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
 
 - *Hontoria, N. (2025, 6 de agosto). Hay algo que echo de menos en Google Maps: no es capaz de evitar las zonas más inseguras. Xataka Android.* https://www.xatakandroid.com/navegacion-y-mapas/hay-algo-que-echo-google-maps-no-capaz-evitar-zonas-inseguras-ia-tampoco-sabe-como-ayudarme
 
-- *Syndicated Maps. (2025, August 22). Why Google Maps doesn’t show you unsafe areas.* https://blog.syndicatedmaps.com/2025/08/why-google-maps-doesnt-show-you-unsafe.html
-
 - *Wood, M. (2022, June 30). Algorithm predicts crime a week in advance, but reveals bias in police response. The University of Chicago – Biological Sciences Division.* https://biologicalsciences.uchicago.edu/news/algorithm-predicts-crime-police-bias
 
 - *Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.* https://midu.dev/buenas-practicas-escribir-commits-git/
 
+- *Syndicated Maps. (2025, August 22). Why Google Maps doesn’t show you unsafe areas.* https://blog.syndicatedmaps.com/2025/08/why-google-maps-doesnt-show-you-unsafe.html
 
 
