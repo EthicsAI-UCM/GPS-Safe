@@ -87,4 +87,6 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
 
 - *Syndicated Maps. (2025, August 22). Why Google Maps doesn’t show you unsafe areas.* https://blog.syndicatedmaps.com/2025/08/why-google-maps-doesnt-show-you-unsafe.html
 
+ - *AP News. (2025, October). The danger of false trails: How non-existent hiking routes on Google Maps can lead to disaster.*
+https://apnews.ca/article/the-danger-of-false-trails-how-non-existent-hiking-routes-on-google-maps-can-lead-to-disaster/
 
