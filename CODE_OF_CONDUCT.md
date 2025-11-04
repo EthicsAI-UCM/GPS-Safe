@@ -28,6 +28,7 @@ Esperamos que todas las interacciones, ya sean en GitHub, fotos, canales de sopo
 ## 5. Procedimiento de denuncia
    
 Si observas un comportamiento inapropiado:
+
       1. Reporta el incidente enviando un correo a: xxxxxx@xxxxx.com.
       2. Describe brevemente lo ocurrido, el lugar (foro, issue, comentario, etc.) y la fecha.
       3. El equipo de mantenimiento revisará el caso y tomará las medidas adecuadas, que pueden incluir advertencias, eliminación de contenido o suspensión de acceso al repositorio o comunidad.
