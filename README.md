@@ -16,17 +16,19 @@ GPS Safe es una aplicación de navegación inteligente que te ayuda a llegar a c
 
 ## 2. Control de versiones
 
+Cada una de las versiones del proyecto aquí recogidas se ha desarrollado durante un Sprint distinto, cada Sprint con una duración de dos semanas. Para más detalle sobre estos Sprints (las fechas; la planificación, la revisión y la retrospectiva; el product backlog con las tareas etiquetadas por tamaño, peso y persona/s asignada/s), ver la [Wiki](https://github.com/EthicsAI-UCM/GPS-Safe/wiki) del proyecto. Estas versiones son acumulativas e iterativas: cada nueva versión amplía o refina las funcionalidades de la anterior, manteniendo su base y mejorando progresivamente el sistema.
+
 ```📑 Especificacion_v0.pdf```
 
 En esta versión cero, se tratan aspectos superficiales como quiénes son los integrantes del grupo, cuál es el proyecto a abordar (nombre, definición, ámbito, uso de IA, actores, innovación, riesgos, etc.) y cómo va a estar organizado (formas de comunicación, superación de debilidades personales, team building, etc.).
 
 ```📑 Especificacion_v1.pdf```
 
-En esta primera versión, se profundiza en aquellos temas que causaron interés o controversia en el debate de la versión anterior, como la privacidad, evaluación de riesgos, usos indebidos... Se incluyen 2 anexos en los que se desarrollan a conciencia estos puntos. En esencia, se detallan ciertos aspectos del proyecto para reforzar su funcionamiento, seguridad y ética. 
+En esta primera versión, se profundiza en aquellos temas que causaron interés o controversia en el debate de la versión anterior, como la privacidad, evaluación de riesgos, usos indebidos... Se incluyen dos anexos en los que se desarrollan a conciencia estos puntos. En esencia, se detallan ciertos aspectos del proyecto para reforzar su funcionamiento, seguridad y ética. 
 
 ```📑 Especificacion_v2.pdf```
 
-En esta segunda versión, se vuelven a tratar los temas que causaron mayor interés o controversia en el debate de la versión anterior. Además, se introducen el análisis de riesgos y límites del proyecto, así como una definición de la propiedad intelectual del mismo. Ambos temas se han tratado profundamente y están plasmados en los 2 anexos adjuntos a la memoria principal. En esencia, se sigue aumentando el tamaño del proyecto con nuevas especificaciones, esta vez, para consolidarlo técnicamente.
+En esta segunda versión, se vuelven a tratar los temas que causaron mayor interés o controversia en el debate de la versión anterior. Además, se introducen el análisis de riesgos y límites del proyecto, así como una definición de la propiedad intelectual del mismo. Ambos temas se han tratado con mayor profundidad y están plasmados en los dos anexos adjuntos a la memoria principal. En esencia, se sigue aumentando el tamaño del proyecto con nuevas especificaciones, esta vez, para consolidarlo técnicamente.
 
 
 
