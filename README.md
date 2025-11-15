@@ -97,3 +97,10 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
  - *AP News. (2025, October). The danger of false trails: How non-existent hiking routes on Google Maps can lead to disaster.*
 https://apnews.ca/article/the-danger-of-false-trails-how-non-existent-hiking-routes-on-google-maps-can-lead-to-disaster/
 
+
+## 8. Explicabilidad por capas  
+
+- A nivel de usuario: https://www.canva.com/design/DAG4xBGh7dI/gHNBcctG5l8QT4iYjO1mzg/view?utm_content=DAG4xBGh7dI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2cf2b3e517
+- A nivel de autidoría: 
+
+
