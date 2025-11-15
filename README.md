@@ -101,6 +101,6 @@ https://apnews.ca/article/the-danger-of-false-trails-how-non-existent-hiking-rou
 ## 8. Explicabilidad por capas  
 
 - A nivel de usuario: https://www.canva.com/design/DAG4xBGh7dI/gHNBcctG5l8QT4iYjO1mzg/view?utm_content=DAG4xBGh7dI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2cf2b3e517
-- A nivel de autidoría: 
+- A nivel de autidoría: https://www.canva.com/design/DAG4xvKp2d8/6j1FU8-b0V8-JX9KGNS57Q/view?utm_content=DAG4xvKp2d8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h642127c5eb
 
 
