@@ -111,5 +111,9 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
  - *AP News. (2025, October). The danger of false trails: How non-existent hiking routes on Google Maps can lead to disaster.*
 https://apnews.ca/article/the-danger-of-false-trails-how-non-existent-hiking-routes-on-google-maps-can-lead-to-disaster/
 
+- *Sharma, V., Kulshreshtha, R., Singh, P., Agrawal, N., & Kumar, A. (2015). Analyzing newspaper crime reports for identification of safe transit paths. In Proceedings of the NAACL-HLT 2015 Student Research Workshop (SRW) (pp. 17–24). Association for Computational Linguistics.* https://aclanthology.org/N15-2003.pdf
+
+- *Berhanu, Y., Schröder, D., Wodajo, B. T., & Alemayehu, E. (2024). Machine learning for predictions of road traffic accidents and spatial network analysis for safe routing on accident and congestion-prone road networks. Results in Engineering, 21, 101021. Elsevier.* https://www.sciencedirect.com/science/article/pii/S2590123024009927
+
 
 
