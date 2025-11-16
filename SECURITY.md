@@ -6,7 +6,7 @@ La seguridad es un aspecto esencial de GPS-Safe, especialmente porque trabajamos
 Si encuentras una posible vulnerabilidad en el código, datos o documentación:
 
 1. **No abras una issue pública**.
-2. Envía un reporte privado a: 📧 (seguridad-gpssafe@ejemplo.com)[mailto:seguridad-gpssafe@ejemplo.com]  (correo de placeholder, se reemplazará cuando tengamos un contacto oficial).
+2. Envía un reporte privado a: 📧 seguridad-gpssafe@ejemplo.com  (correo de placeholder, se reemplazará cuando tengamos un contacto oficial).
 3. Incluye en el mensaje:
   - Descripción detallada de la vulnerabilidad
   - Pasos para reproducirla (si aplica)
