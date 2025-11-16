@@ -32,6 +32,9 @@ En esta primera versión, se profundiza en aquellos temas que causaron interés 
 
 En esta segunda versión, se vuelven a tratar los temas que causaron mayor interés o controversia en el debate de la versión anterior. Además, se introducen el análisis de riesgos y límites del proyecto, así como una definición de la propiedad intelectual del mismo. Ambos temas se han tratado con mayor profundidad y están plasmados en los dos anexos adjuntos a la memoria principal. En esencia, se sigue aumentando el tamaño del proyecto con nuevas especificaciones, esta vez, para consolidarlo técnicamente.
 
+```📑 Especificacion_v3.pdf```
+
+*En progreso...*
 
 
 ## 3. Prototipo conceptual 
@@ -70,7 +73,7 @@ Integrantes del equipo *GPS-Safe*:
 
 
 
-## 6. Protocolo *commits* en GitHub
+## 5. Protocolo *commits* en GitHub
 
 Con el fin de unificar criterios, los *commits* en GitHub se escribirán en castellano como lengua imperante, y se ceñirán a las siguientes reglas (*Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.*):
 
@@ -81,7 +84,7 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
 
 
 
-## 7. Referencias
+## 6. Referencias
 
 **Importante:** Las referencias serán escritas en formato APA (7ª edición).
 
