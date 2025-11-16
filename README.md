@@ -7,11 +7,13 @@
 >   — Kant (interpretación)
 
 
+
 ## 1. Descripción del proyecto
 
 GPS Safe es una aplicación de navegación inteligente que te ayuda a llegar a casa de la forma más rápida y segura. Utiliza inteligencia artificial (IA) para analizar datos en tiempo real —como reportes de incidentes, tráfico, iluminación o comportamiento del usuario— y predecir el nivel de riesgo de cada ruta. De este modo, la app no solo optimiza el trayecto por tiempo, sino también por seguridad, ofreciendo rutas personalizadas y alertas preventivas. 
 
 > Su objetivo es convertir la movilidad urbana en una experiencia más confiable, responsable y conectada con las necesidades reales de las personas.
+
 
 
 ## 2. Control de versiones
@@ -32,14 +34,22 @@ En esta segunda versión, se vuelven a tratar los temas que causaron mayor inter
 
 
 
-## 3. Prototipo conceptual
+## 3. Prototipo conceptual 
 
-Con el objetivo de llevar la idea del proyecto a una forma tangible y facilitar su visualización, se ha creado un prototipo conceptual. Este *mock-up* inicial, que presenta la arquitectura y una GUI básica, sirve como herramienta para validar el concepto y recopilar retroalimentación, sentando las bases para las siguientes etapas del desarrollo.
+Para transformar la idea de GPS-Safe en algo visible y comprensible, desarrollamos un primer prototipo conceptual. Este *mock-up* muestra la estructura básica de la aplicación y una interfaz inicial, lo que nos permite validar el concepto, recoger comentarios y orientar los siguientes pasos del desarrollo.
 
-[Visualización previa de la app en Canva](https://www.canva.com/design/DAG2FMkn63Q/IrMF0guvsO35Kviok0BNKw/view?utm_content=DAG2FMkn63Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he84d66c04d)
+**Visualización previa de la app** *(Diseño inicial y flujo principal)* [Ver prototipo en Canva](https://www.canva.com/design/DAG2FMkn63Q/IrMF0guvsO35Kviok0BNKw/view?utm_content=DAG2FMkn63Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he84d66c04d)
+
+### Explicabilidad por capas  
+
+Además, para garantizar transparencia y confianza, incorporamos un sistema de explicabilidad en varios niveles, adaptado a las necesidades de cada tipo de usuario. Esta estructura permite entender cómo decide la IA y facilita un uso responsable.
+
+- **A nivel de usuario** *(Explicaciones simples y accionables sobre por qué se recomienda una ruta)*: [Ver explicación por capas - Usuario](https://www.canva.com/design/DAG4xBGh7dI/gHNBcctG5l8QT4iYjO1mzg/view?utm_content=DAG4xBGh7dI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2cf2b3e517)
+- **A nivel de autidoría** *(Detalles técnicos y criterios de revisión para garantizar seguridad, ética y ausencia de sesgos)*: [Ver explicación por capas - Auditoría](https://www.canva.com/design/DAG4xvKp2d8/6j1FU8-b0V8-JX9KGNS57Q/view?utm_content=DAG4xvKp2d8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h642127c5eb)
 
 
-## 4. Crédito
+
+## 4. Crédito y roles
 
 Integrantes del equipo *GPS-Safe*:
 
@@ -49,8 +59,7 @@ Integrantes del equipo *GPS-Safe*:
 - Artem Vartanov
 - Yushan Yang Xu
 
-
-## 5. Asignación de roles
+### Asignación de roles
 
 |Rol | Miembro | Breve descripción |
 |----|---------|-------------------|
@@ -58,6 +67,7 @@ Integrantes del equipo *GPS-Safe*:
 | *Product Owner* | **Pablo** M. Rodríguez Sosa | Responsable de que el grupo haga el trabajo productivo requerido |
 | *Experto Git* | **Artem** Vartanov | Responsable de apoyar el uso de Git y Github y resolver dudas al respecto |
 | *Team Advocate* | **Yushan** Yang | Responsable de defender y cuidar al grupo |
+
 
 
 ## 6. Protocolo *commits* en GitHub
@@ -68,6 +78,7 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
 2. No se usará punto final ni puntos suspensivos en los mensajes
 3. Se usarán como máximo 50 carácteres para el mensaje de commit
 4. Se añadirá todo el contexto que sea necesario en el cuerpo del mensaje de commit
+
 
 
 ## 7. Referencias
@@ -97,10 +108,5 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
  - *AP News. (2025, October). The danger of false trails: How non-existent hiking routes on Google Maps can lead to disaster.*
 https://apnews.ca/article/the-danger-of-false-trails-how-non-existent-hiking-routes-on-google-maps-can-lead-to-disaster/
 
-
-## 8. Explicabilidad por capas  
-
-- A nivel de usuario: https://www.canva.com/design/DAG4xBGh7dI/gHNBcctG5l8QT4iYjO1mzg/view?utm_content=DAG4xBGh7dI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2cf2b3e517
-- A nivel de autidoría: https://www.canva.com/design/DAG4xvKp2d8/6j1FU8-b0V8-JX9KGNS57Q/view?utm_content=DAG4xvKp2d8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h642127c5eb
 
 
