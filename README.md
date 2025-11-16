@@ -45,7 +45,7 @@ Para transformar la idea de GPS-Safe en algo visible y comprensible, desarrollam
 Además, para garantizar transparencia y confianza, incorporamos un sistema de explicabilidad en varios niveles, adaptado a las necesidades de cada tipo de usuario. Esta estructura permite entender cómo decide la IA y facilita un uso responsable.
 
 - **A nivel de usuario** *(Explicaciones simples y accionables sobre por qué se recomienda una ruta)*: [Ver explicación por capas - Usuario](https://www.canva.com/design/DAG4xBGh7dI/gHNBcctG5l8QT4iYjO1mzg/view?utm_content=DAG4xBGh7dI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2cf2b3e517)
-- **A nivel de autidoría** *(Detalles técnicos y criterios de revisión para garantizar seguridad, ética y ausencia de sesgos)*: [Ver explicación por capas - Auditoría](https://www.canva.com/design/DAG4xvKp2d8/6j1FU8-b0V8-JX9KGNS57Q/view?utm_content=DAG4xvKp2d8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h642127c5eb)
+- **A nivel de auditoría** *(Detalles técnicos y criterios de revisión para garantizar seguridad, ética y ausencia de sesgos)*: [Ver explicación por capas - Auditoría](https://www.canva.com/design/DAG4xvKp2d8/6j1FU8-b0V8-JX9KGNS57Q/view?utm_content=DAG4xvKp2d8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h642127c5eb)
 
 
 
