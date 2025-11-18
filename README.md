@@ -114,8 +114,8 @@ https://apnews.ca/article/the-danger-of-false-trails-how-non-existent-hiking-rou
 - *Sharma, V., Kulshreshtha, R., Singh, P., Agrawal, N., & Kumar, A. (2015). Analyzing newspaper crime reports for identification of safe transit paths. In Proceedings of the NAACL-HLT 2015 Student Research Workshop (SRW) (pp. 17–24). Association for Computational Linguistics.* https://aclanthology.org/N15-2003.pdf
 
 - *Berhanu, Y., Schröder, D., Wodajo, B. T., & Alemayehu, E. (2024). Machine learning for predictions of road traffic accidents and spatial network analysis for safe routing on accident and congestion-prone road networks. Results in Engineering, 21, 101021. Elsevier.* https://www.sciencedirect.com/science/article/pii/S2590123024009927
-- *Zuboff, S. (2019). *La era del capitalismo de la vigilancia: La lucha por un futuro humano en la nueva frontera del poder*. Paidós.
+- Zuboff, S. (2019). *La era del capitalismo de la vigilancia: La lucha por un futuro humano en la nueva frontera del poder*. Paidós.
   
-- *O'Neil, C. (2017). *Armas de destrucción matemática: Cómo el big data aumenta la desigualdad y amenaza la democracia*. Capitán Swing.
+- O'Neil, C. (2017). *Armas de destrucción matemática: Cómo el big data aumenta la desigualdad y amenaza la democracia*. Capitán Swing.
 
 
