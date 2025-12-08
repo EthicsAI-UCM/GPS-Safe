@@ -10,7 +10,6 @@
 ## Model Card y Anexos
 Para entender completamente el contexto, el desarrollo, y la documentación técnica de este proyecto, consulte los siguientes recursos:
 
-Para entender completamente el contexto, el desarrollo, y la documentación técnica de este proyecto, consulte los siguientes recursos:
 
 | Documento | Título del Anexo | Descripción | Enlace |
 | :--- | :--- | :--- | :--- |
