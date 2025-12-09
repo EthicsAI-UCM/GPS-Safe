@@ -7,21 +7,6 @@
 >   — Kant (interpretación)
 
 
-## Model Card y Anexos
-Para entender completamente el contexto, el desarrollo, y la documentación técnica de este proyecto, consulte los siguientes recursos:
-
-
-| Documento | Título del Anexo | Descripción | Enlace |
-| :--- | :--- | :--- | :--- |
-| **📄 Model Card** | Model Card | Documento principal que ayuda a entender de forma general como funciona el modelo | [Ir a la Model Card](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/Model%20Card.pdf) |
-| **📚 Anexo 1** | Casos de uso previstos y no previstos | Define el propósito principal, los perfiles de usuario, y las restricciones formales. | [Ir al Anexo 1](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%201%20Casos%20de%20uso%20previstos%20y%20no%20previstos.pdf) |
-| **📚 Anexo 2** | Datos y Entrenamiento del sistema | Detalla las fuentes de datos, criterios de calidad e impacto ambiental del entrenamiento. | [Ir al Anexo 2](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%202%20Datos%20y%20Entrenamiento%20del%20sistema.pdf) |
-| **📚 Anexo 3** | Evaluación y métricas | Explica los ejes de evaluación, métricas técnicas y los umbrales críticos de despliegue. | [Ir al Anexo 3](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%203%20Evaluaci%C3%B3n%20y%20m%C3%A9tricas.pdf) |
-| **📚 Anexo 4** | Privacidad y protección de datos | Detalla el cumplimiento del RGPD, el manejo de datos sensibles y las medidas de encriptación y anonimización. | [Ir al Anexo 4](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%204%20Privacidad%20y%20protecci%C3%B3n%20de%20datos.pdf) |
-| **📚 Anexo 5** | Propiedad intelectual y modelo de apertura | Define el régimen de licencias y el modelo de negocio. | [Ir al Anexo 5](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%205%20Propiedad%20intelectual%20y%20modelo%20de%20apertura.pdf) |
-| **📚 Anexo 6** | Marco de Riesgos, Límites Operacionales y Gobernanza | Describe los riesgos críticos, las Líneas Rojas éticas y el poder de veto del Comité Ético. | [Ir al Anexo 6](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%206%20Marco%20de%20Riesgos%2C%20L%C3%ADmites%20Operacionales%20y%20Gobernanza.pdf) |
-| **📚 Anexo 7** | Usuarios, sesgos y colectivos afectados | Detalla la degradación de rendimiento en colectivos y los compromisos de diseño para la equidad. | [Ir al Anexo 7](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%207%20Usuarios%2C%20sesgos%20y%20colectivos%20afectados.pdf) |
-
 
 ## 1. Descripción del proyecto
 
@@ -49,10 +34,26 @@ En esta segunda versión, se vuelven a tratar los temas que causaron mayor inter
 
 ```📑 Especificacion_v3.pdf```
 
-*En progreso...*
+En esta tercera versión, se consolidan los avances del Sprint 3, centrados en reforzar la seguridad, la evaluación y la arquitectura del proyecto. Se actualiza la documentación clave del repositorio, se define el modelo de licencias, se establece el marco general de evaluación del sistema y se analizan los riesgos a gran escala. Además, se concreta la estrategia de personalización responsable y se incorpora un esquema de explicabilidad por capas para mejorar la transparencia del modelo.
 
 
-## 3. Prototipo conceptual 
+## 3. Model Card y Anexos
+Para entender completamente el contexto, el desarrollo, y la documentación técnica de este proyecto, consulte los siguientes recursos:
+
+
+| Documento | Título del Anexo | Descripción | Enlace |
+| :--- | :--- | :--- | :--- |
+| **📄 Model Card** | Model Card | Documento principal que ayuda a entender de forma general como funciona el modelo | [Ir a la Model Card](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/Model%20Card.pdf) |
+| **📚 Anexo 1** | Casos de uso previstos y no previstos | Define el propósito principal, los perfiles de usuario, y las restricciones formales. | [Ir al Anexo 1](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%201%20Casos%20de%20uso%20previstos%20y%20no%20previstos.pdf) |
+| **📚 Anexo 2** | Datos y Entrenamiento del sistema | Detalla las fuentes de datos, criterios de calidad e impacto ambiental del entrenamiento. | [Ir al Anexo 2](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%202%20Datos%20y%20Entrenamiento%20del%20sistema.pdf) |
+| **📚 Anexo 3** | Evaluación y métricas | Explica los ejes de evaluación, métricas técnicas y los umbrales críticos de despliegue. | [Ir al Anexo 3](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%203%20Evaluaci%C3%B3n%20y%20m%C3%A9tricas.pdf) |
+| **📚 Anexo 4** | Privacidad y protección de datos | Detalla el cumplimiento del RGPD, el manejo de datos sensibles y las medidas de encriptación y anonimización. | [Ir al Anexo 4](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%204%20Privacidad%20y%20protecci%C3%B3n%20de%20datos.pdf) |
+| **📚 Anexo 5** | Propiedad intelectual y modelo de apertura | Define el régimen de licencias y el modelo de negocio. | [Ir al Anexo 5](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%205%20Propiedad%20intelectual%20y%20modelo%20de%20apertura.pdf) |
+| **📚 Anexo 6** | Marco de Riesgos, Límites Operacionales y Gobernanza | Describe los riesgos críticos, las Líneas Rojas éticas y el poder de veto del Comité Ético. | [Ir al Anexo 6](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%206%20Marco%20de%20Riesgos%2C%20L%C3%ADmites%20Operacionales%20y%20Gobernanza.pdf) |
+| **📚 Anexo 7** | Usuarios, sesgos y colectivos afectados | Detalla la degradación de rendimiento en colectivos y los compromisos de diseño para la equidad. | [Ir al Anexo 7](https://github.com/EthicsAI-UCM/GPS-Safe/blob/main/ANEXO%207%20Usuarios%2C%20sesgos%20y%20colectivos%20afectados.pdf) |
+
+
+## 4. Prototipo conceptual 
 
 Para transformar la idea de GPS-Safe en algo visible y comprensible, desarrollamos un primer prototipo conceptual. Este *mock-up* muestra la estructura básica de la aplicación y una interfaz inicial, lo que nos permite validar el concepto, recoger comentarios y orientar los siguientes pasos del desarrollo.
 
@@ -67,7 +68,7 @@ Además, para garantizar transparencia y confianza, incorporamos un sistema de e
 
 
 
-## 4. Crédito y roles
+## 5. Crédito y roles
 
 Integrantes del equipo *GPS-Safe*:
 
@@ -88,7 +89,7 @@ Integrantes del equipo *GPS-Safe*:
 
 
 
-## 5. Protocolo *commits* en GitHub
+## 6. Protocolo *commits* en GitHub
 
 Con el fin de unificar criterios, los *commits* en GitHub se escribirán en castellano como lengua imperante, y se ceñirán a las siguientes reglas (*Durán, M. Á. (2021, 22 de julio). Buenas prácticas para escribir commits en Git. Midudev.*):
 
@@ -99,7 +100,7 @@ Con el fin de unificar criterios, los *commits* en GitHub se escribirán en cast
 
 
 
-## 6. Referencias
+## 7. Referencias principales del Proyecto
 
 **Importante:** Las referencias serán escritas en formato APA (7ª edición).
 
